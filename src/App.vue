@@ -359,7 +359,7 @@ export default {
   data() {
     return {
       // Configuration
-      SERVER_URL: 'http://localhost:5400',
+      SERVER_URL: 'http://16.171.199.143:5400',
       NAMESPACE: '/game',
 
       // État de connexion
